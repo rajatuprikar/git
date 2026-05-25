@@ -1,3 +1,7 @@
 12
+<<<<<<< HEAD
 
 this is new command
+=======
+hi this is our code and base of the code 
+>>>>>>> 346720857c3f97b467312a3c074d696aebe5aca0
